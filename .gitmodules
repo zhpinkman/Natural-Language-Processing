@@ -1,0 +1,3 @@
+[submodule "chatbot-using-seq2seq"]
+	path = chatbot-using-seq2seq
+	url = git@github.com:zhpinkman/chatbot-using-seq2seq.git
