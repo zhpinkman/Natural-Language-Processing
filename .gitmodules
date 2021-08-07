@@ -1,3 +1,6 @@
 [submodule "chatbot-using-seq2seq"]
 	path = chatbot-using-seq2seq
 	url = git@github.com:zhpinkman/chatbot-using-seq2seq.git
+[submodule "word2vec-model"]
+	path = word2vec-model
+	url = git@github.com:zhpinkman/word2vec-model.git
