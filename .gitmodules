@@ -10,3 +10,6 @@
 [submodule "sentiment-analysis-digikala"]
 	path = sentiment-analysis-digikala
 	url = git@github.com:zhpinkman/sentiment-analysis-digikala.git
+[submodule "coursera-nlp"]
+	path = coursera-nlp
+	url = git@github.com:zhpinkman/coursera-nlp.git
