@@ -4,3 +4,6 @@
 [submodule "word2vec-model"]
 	path = word2vec-model
 	url = git@github.com:zhpinkman/word2vec-model.git
+[submodule "NER-model"]
+	path = NER-model
+	url = git@github.com:zhpinkman/NER-model.git
