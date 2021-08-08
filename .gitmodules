@@ -16,3 +16,6 @@
 [submodule "event-extraction"]
 	path = event-extraction
 	url = git@github.com:zhpinkman/event-extraction.git
+[submodule "LDA"]
+	path = LDA
+	url = https://github.com/zhpinkman/LDA
